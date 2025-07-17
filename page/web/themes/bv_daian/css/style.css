@@ -2760,7 +2760,8 @@ textarea:focus {
     font-size: 14px;
   }
   .header-mobile {
-    background: #28b47c;
+    background: #28b47c; 
+    /* header mobile */
   }
   .clVideohome iframe {
     height: 100%;
